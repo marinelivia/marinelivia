@@ -1,4 +1,14 @@
-## Hi there 👋
+## BEM VINDO(A) AO MEU PERFIL😊
+
+ Meu nome é Livia Marine 
+ 
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+Você pode entrar em contato comigo 📫
+
+00001103987161sp@aluno.educacao.sp.gov.br
 
 <!--
 **marinelivia/marinelivia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
